@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: "Poppins", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Sora", sans-serif;
+}
+
+input,
+textarea,
+select,
+button {
+    font-size: inherit;
+    font-family: inherit;
+}
+
+:root {
+    --primary-color1: #000958;
+    --primary-color2: #ff5b2e;
+    --primary-color3: #656689;
+}
+
+/* Common */
+.btn {
+    width: 117px;
+    min-height: 44px;
+    border-radius: 99px;
+}
+
+.container {
+}
+
+main {
+    background: #fffaf5;
+}
